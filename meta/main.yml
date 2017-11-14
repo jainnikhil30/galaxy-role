@@ -1,4 +1,4 @@
 ---
 dependencies:
-  - { role: ansible-role-composer, src: git+https://github.com/geerlingguy/ansible-role-composer.git, version: {{ docker_version }}}
+  - { role: ansible-role-composer, src: git+https://github.com/geerlingguy/ansible-role-composer.git, version: docker-test-roles }
 
